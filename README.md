@@ -1,5 +1,5 @@
 # PiBowl
-A simple python script to use with Instapush to determine wether your cat food bowl is empty/full.
+A simple python script to use with Instapush to determine if your cat food bowl is empty/full.
 ## Setup
 
 1. Make an Instapush account.
@@ -17,3 +17,5 @@ A simple python script to use with Instapush to determine wether your cat food b
 7. Edit your crontab to include `0,30 * * * * yourScriptPath`
 
 ### Party on
+
+(probably) IOT certified!
