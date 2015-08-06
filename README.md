@@ -6,7 +6,7 @@ A simple python script to use with Instapush to determine wether your cat food b
 
 2. Create two events with the event titles as "Empty" and "Full"
 
-3. For both of them, make the tracker`"message` and the handler `{message}`
+3. For both of them, make the tracker`message` and the handler `{message}`
 
 4. Save your secret and id.
 
