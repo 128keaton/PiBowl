@@ -6,7 +6,7 @@ A simple python script to use with Instapush to determine wether your cat food b
 
 2. Create two events with the event titles as "Empty" and "Full"
 
-3. For both of them, make the tracker "message" and the handler "{message}"
+3. For both of them, make the tracker`"message` and the handler `{message}`
 
 4. Save your secret and id.
 
@@ -14,5 +14,6 @@ A simple python script to use with Instapush to determine wether your cat food b
 
 6. Attach light sensor to power, ground, and GPIO pin. Affix light sensor to inside of bowl.
 
-7. Party on.
+7. Edit your crontab to include `0,30 * * * * yourScriptPath`
 
+### Party on
