@@ -19,3 +19,6 @@ A simple python script to use with Instapush to determine if your cat food bowl 
 ### Party on
 
 (probably) IOT certified!
+
+## Demo:
+[Album](http://imgur.com/a/zHI0D)
